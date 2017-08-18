@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add materialize-css
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add stripe
 
 PATH: 
   /home/datreformedboi/anaconda2/bin:/home/datreformedboi/Enthought/Canopy_64bit/User/bin:/home/datreformedboi/.cargo/bin:/home/datreformedboi/bin:/home/datreformedboi/.local/bin:/home/datreformedboi/anaconda2/bin:/home/datreformedboi/Enthought/Canopy_64bit/User/bin:/opt/OpenPrinting-Gutenprint/sbin:/opt/OpenPrinting-Gutenprint/bin:/home/datreformedboi/.cargo/bin:/home/datreformedboi/bin:/home/datreformedboi/.local/bin:/opt/OpenPrinting-Gutenprint/sbin:/opt/OpenPrinting-Gutenprint/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/datreformedboi/Desktop/swift4/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-06-23-a-ubuntu16.04/usr/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
@@ -2062,4 +2062,4 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/yallist/-/yallist-2.1.2.tgz#1c11f9218f076089a47dd512f93c6699a6a81d52"
 
 Trace: 
-  Error: EACCES: permission denied, unlink '/home/datreformedboi/Documents/Programming-Projects/ReactProjects/server/node_modules/.bin/concurrently'
+  Error: EACCES: permission denied, unlink '/home/datreformedboi/Documents/Programming-Projects/ReactProjects/server/node_modules/.bin/concurrent'
