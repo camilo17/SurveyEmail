@@ -25,4 +25,3 @@ ReactDOM.render(
      document.querySelector('#root')
 ); 
 
-const survey = {title: 'my title', body: 'hello there frend', recipients: 'cami172015@outlook.com', subject: 'hey frend'}; 
